@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1001058780956",
+    "firebase_url": "https://trythemart.firebaseio.com",
+    "project_id": "trythemart",
+    "storage_bucket": "trythemart.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001058780956:android:ba359593add019366b9cd9",
+        "android_client_info": {
+          "package_name": "com.tina.ncart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1001058780956-gv5m0ci3oi2u8avgkb144ev307ul4ouv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tina.ncart",
+            "certificate_hash": "5c71e153722e643fae446252343ffe7c88b66cba"
+          }
+        },
+        {
+          "client_id": "1001058780956-vp6r7b4flo9rcp8dhp38r18s1ipq18vb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDigLjCap2Q3cp4mfRB0ijG_xU3NGVCYhw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1001058780956-vp6r7b4flo9rcp8dhp38r18s1ipq18vb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
