@@ -1,6 +1,6 @@
 # ncart
 
-A new Flutter application.
+social sign-in(google,facebbok) in flutter app.
 
 ## Getting Started
 
